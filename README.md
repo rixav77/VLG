@@ -28,7 +28,7 @@
 
 ---
 
-## 🗂️ **Dataset**
+## 🗂️ **Datasets**
 
 📂 The dataset is divided into 🏋️‍♂️ training, 📊 validation, and 📁 test sets. It facilitates essential tasks:
 
@@ -109,7 +109,7 @@
 1️⃣ **🏋️‍♂️ Pretrained ResNet50**: Utilizes transfer learning for high 🎯 accuracy.
 2️⃣ **🧠 Custom Fully Connected Layer**: Adapts ResNet50 for the 50-category 🏷️ classification task.
 3️⃣ **🎚️ Learning Rate Scheduler**: Dynamically adjusts learning rates for efficient training.
-4️⃣ **⛔ Dropout Layer**: Reduces 📉 overfitting, ensuring better generalization.
+4️⃣ **⛔ Dropout Layers**: Reduces 📉 overfitting, ensuring better generalization on unseen datasets.
 5️⃣ **📥 Data Preprocessing**: Rescales and normalizes images to align with model input requirements.
 6️⃣ **🛠️ Custom Training Loop**: Integrates evaluation and scheduler updates within each epoch for streamlined performance monitoring.
 
