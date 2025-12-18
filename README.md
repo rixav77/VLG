@@ -1,7 +1,7 @@
 # 📂 **VLG Dataset Image Classification Project**
 
 ## 🌟 **Overview**
-🗂️ This repository contains 🖼️ resources and 🖥️ code for classifying images into 50 📚 categories using 🏋️‍♂️ ResNet50. It details steps such as data preprocessing, model fine-tuning, training, and 📈 making predictions, providing a robust framework for image classification.
+🗂️ This repository contains resources and code for classifying images into 50 📚 categories using 🏋️‍♂️ ResNet50. It details steps such as data preprocessing, model fine-tuning, training, and 📈 making predictions, providing a robust framework for image classification.
 
 ---
 
