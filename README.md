@@ -8,7 +8,7 @@
 ## 📁 **Repository Structure**
 
 - 📝 **`notebook.ipynb`**: 📘 Jupyter notebook with the complete 🚀 implementation pipeline.
-- 💾 **`best_model.pth`**: 🔒 Checkpoint for the trained 🏆 ResNet50 model.
+- 💾 **`best_model.pth`**: 🔒 Checkpoint for the trained ResNet50 model.
 - 📊 **`predictions.csv`**: 📑 File containing submission-ready 📝 predictions for the test dataset.
 - 📄 **`README.md`**: 📜 File explaining 📚 project details and instructions.
 
