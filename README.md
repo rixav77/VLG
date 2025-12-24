@@ -80,7 +80,7 @@
 ### 4️⃣ **🔍 Evaluation**
 
 - **🔎 Description**: The model is evaluated on validation data using metrics such as accuracy and loss, with trends plotted to monitor training effectiveness.
-- **Key Metric**: Validation accuracy of ~98.01% highlights the model’s strong generalization.
+- **Key Metrics**: Validation accuracy of ~98.01% highlights the model’s strong generalization.
 
 ### 5️⃣ **📤 Prediction & Submission**
 
